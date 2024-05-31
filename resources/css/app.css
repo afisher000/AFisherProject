@@ -1,0 +1,18 @@
+/* custom-styles.css */
+
+/* Define custom color variables */
+:root {
+    --custom-primary-color: #d52a55;
+    --custom-secondary-color: #6c757d;
+}
+
+/* Override Bootstrap's default primary and secondary colors */
+.btn-primary {
+    background-color: #7d323d;
+    border-color: #6c757d;
+}
+
+.btn-secondary {
+    background-color: #ba2b39;
+    border-color: #6c757d;
+}

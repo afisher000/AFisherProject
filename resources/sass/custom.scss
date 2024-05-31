@@ -1,0 +1,9 @@
+// Import Bootstrap source SCSS
+@import '~bootstrap/scss/bootstrap';
+
+// Override Bootstrap color variables
+$primary: #ff5733;   // Change to your desired primary color
+$secondary: #6c757d; // Change to your desired secondary color
+// ... other color variables ...
+
+// Continue with your custom styling
